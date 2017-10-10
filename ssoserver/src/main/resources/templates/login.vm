@@ -1,0 +1,14 @@
+<html>
+<header>
+    <title>SSO单点登录</title>
+</header>
+
+<body>
+<form action="/sso/dologin" method="post">
+    <input type="hidden" name="returnUrl" value="$!{returnUrl}"/>
+    <input type="text" name="username" value="luoxun"/>
+    <input type="text" name="password" value="123456"/>
+    <input type="submit" value="登录"/>
+</form>
+</body>
+</html>

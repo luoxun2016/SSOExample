@@ -1,0 +1,11 @@
+<html>
+    <header>
+        <title>SSO单点登录客户端</title>
+    </header>
+
+    <body>
+        <h1>index</h1>
+        <a href="/index?logout">退出登录</a>
+    </body>
+
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSOExample.iml" filepath="$PROJECT_DIR$/.idea/SSOExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssoclient/ssoclient.iml" filepath="$PROJECT_DIR$/ssoclient/ssoclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssoserver/ssoserver.iml" filepath="$PROJECT_DIR$/ssoserver/ssoserver.iml" />
+    </modules>
+  </component>
+</project>
